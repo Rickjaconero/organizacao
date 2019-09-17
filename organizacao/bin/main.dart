@@ -1,29 +1,29 @@
-import 'package:twitter/twitter.dart';
+import 'dart:convert' as Json;
 import 'dart:io';
+import 'twitter_requests.dart';
 
-main() {
-  Map twitterKeys = {
-    "consumerKey": 'TXlcjpRTbZEgmkoxNT2oqCfeX',
-    "consumerSecret": 'C5BzmoaPbLSoZ8De8qej7aSb0OCz0f2MlouLybtDdY5freEhNN',
-    "accessToken": '97486111-ySo0byQk5B1KXHRMSNMTUABulYn4VRb1nC0aCNHgS',
-    "accessSecret": 'ixkpMxe6dMMOhL4lKF5yFVgWbnleB8KtO0tJruqkV0EbI'
-  };
+main() async {
 
-  Twitter twitter = Twitter.fromMap(twitterKeys);
+  String busca = "foxsportsbrasil"
+  await TwitterRequest().UserScreenNameSearch(busca);
 
-  String urlRequest = 'search/tweets.json?q=libertadores';
+  String json = await File('$busca.json').readAsString();
+  List twitterJson = Json.jsonDecode(json);
+  int count = 0;
+  twitterJson.forEach((elemento){
+    if(elemento["text"].toString().contains("Champions League")){
+      print(elemento["text"]);
+      count++;
+    }
+  });
+  print("\n$count");
 
-  try {
-    var a = twitter.request("GET", urlRequest);
-    a.then((value) {
-      File("test.json").writeAsString(value.body);
-      twitter.request("GET", urlRequest);
-    }).then((value) {
-      twitter.close();
-    });
-  } catch (e) {
-    print(e);
-  } finally {}
-
-  return;
+  count = 0;
+  twitterJson.forEach((elemento){
+    if(elemento["text"].toString().contains("Libertadores")){
+      print(elemento["text"]);
+      count++;
+    }
+  });
+  print("\n$count");
 }
