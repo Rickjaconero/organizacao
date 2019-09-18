@@ -4,7 +4,7 @@ import 'twitter_requests.dart';
 
 main() async {
 
-  String busca = "foxsportsbrasil"
+  String busca = "foxsportsbrasil";
   await TwitterRequest().UserScreenNameSearch(busca);
 
   String json = await File('$busca.json').readAsString();
