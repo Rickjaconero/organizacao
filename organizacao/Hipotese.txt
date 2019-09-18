@@ -1,0 +1,20 @@
+
+Rede Social :
+	Twitter
+
+Estrutura:
+
+	id_twitter (inteiro, chave primária)
+	usuário (caractere de 20 posições)
+	mensagem (caractere de 280 posições)
+	data (caractere de 8 posições)
+	país (caractere de 20 posições)
+	hashtags (caractere de 200 posições)
+
+Hipotese:
+	
+	Qual o time (gremio,riverplate,boca juniors, flamengo) comentados da libertadores?
+	Qual o assunto da libertadores?
+	Qual o assunto da champions league?
+	Qual o assunto da brasielirao?
+
