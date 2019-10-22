@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rfagu\\Downloads\\Organizacaos\\Organizacao\\Organizacao.csproj": {}
+    "C:\\Users\\rfagu\\Documents\\GitHub\\organizacao\\Organizacao\\Organizacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rfagu\\Downloads\\Organizacaos\\Organizacao\\Organizacao.csproj": {
+    "C:\\Users\\rfagu\\Documents\\GitHub\\organizacao\\Organizacao\\Organizacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rfagu\\Downloads\\Organizacaos\\Organizacao\\Organizacao.csproj",
+        "projectUniqueName": "C:\\Users\\rfagu\\Documents\\GitHub\\organizacao\\Organizacao\\Organizacao.csproj",
         "projectName": "Organizacao",
-        "projectPath": "C:\\Users\\rfagu\\Downloads\\Organizacaos\\Organizacao\\Organizacao.csproj",
+        "projectPath": "C:\\Users\\rfagu\\Documents\\GitHub\\organizacao\\Organizacao\\Organizacao.csproj",
         "packagesPath": "C:\\Users\\rfagu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rfagu\\Downloads\\Organizacaos\\Organizacao\\obj\\",
+        "outputPath": "C:\\Users\\rfagu\\Documents\\GitHub\\organizacao\\Organizacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rfagu\\AppData\\Roaming\\NuGet\\NuGet.Config",

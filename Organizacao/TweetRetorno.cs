@@ -9,11 +9,11 @@ namespace Organizacao
 {
     class TweetRetorno
     {
-        public int id_tweet { get; set; }
+        public String id_tweet { get; set; }
 
-        public String message { get; set; }
+        public String mensager { get; set; }
 
-        public int user_id{ get; set; }
+        public String user_id { get; set; }
 
         public String user { get; set; }
 
@@ -21,7 +21,5 @@ namespace Organizacao
         {
 
         }
-
-        
     }
 }

@@ -12,17 +12,13 @@ using Tweetinvi.Parameters;
 using Tweetinvi.Models;
 using Newtonsoft.Json.Linq;
 using Organizacao;
-using Nancy.Json;
-using Nancy.Json.Simple;
-using RestSharp;
 using Tweetinvi.Core.Events;
 
-namespace ConsoleApp1
+namespace Organizacao
 {
     class Program
     {
-        private TweetRetorno t;
-       
+
 
         static void Main(string[] args)
         {
@@ -30,8 +26,6 @@ namespace ConsoleApp1
             var authUser = User.GetAuthenticatedUser();
             var settings = authUser.GetAccountSettings();
             var matchingTweets = Search.SearchTweets("Libertadores").ToJson();
-            var lista = matchingTweets[1];
-            Console.WriteLine(lista);
 
             var test = String.Empty;
 
@@ -40,39 +34,48 @@ namespace ConsoleApp1
             {
                 test = File.ReadAllText(@"Dados.json");
             }
-            File.WriteAllText(@"Dados.json",test + Environment.NewLine + matchingTweets);
-            Console.WriteLine("inseriu no fim do arquivo");    
+            File.WriteAllText(@"Dados.json", test + Environment.NewLine + matchingTweets);
+            Console.WriteLine("inseriu no fim do arquivo");
 
-            //metodo 3 
+            TweetRetorno tweetJson;
+
+            var test2 = String.Empty;
+            
             JArray a = JArray.Parse(matchingTweets);
             var c = a.Count;
             var i = 0;
             while (c > 0)
             {
-                //ta pulando de 2 em 2
-                Console.WriteLine("O valor de c eh = " + c.ToString());
-                Console.WriteLine("O valor de i eh = " + i.ToString());
-
                 Console.ReadLine();//pause
+                tweetJson = new TweetRetorno();
+                tweetJson.id_tweet = a[i]["id_str"].ToString().PadRight(19, ' ');
+                tweetJson.mensager = a[i]["full_text"].ToString().PadRight(300, '');
+                tweetJson.user_id = a[i]["user"]["id_str"].ToString().PadRight(18, ' ');
+                tweetJson.user = a[i]["user"]["screen_name"].ToString().PadRight(20, '');
+                if (File.Exists(@"Data.txt"))
+                {
+                    test2 = File.ReadAllText(@"Data.txt");
+                }
+                String mensagem = String.Empty;
+                mensagem += tweetJson.id_tweet.ToString();
+                mensagem += tweetJson.mensager;
+                mensagem += tweetJson.user_id.ToString();
+                mensagem += tweetJson.user;
+                for (int i = 0; i < mensagem.Length; i++)
+                {
 
- 
-                Console.WriteLine(a[i]["id"].ToString());
+                }
 
-                //Console.WriteLine(a.);
+                Console.WriteLine(mensagem);
+
+
+                File.WriteAllText(@"Data.txt", test2 + Environment.NewLine + mensagem);
                 c--;
                 i++;
             }
-           
+
             Console.WriteLine(a.GetType());
-            
-
-
-
-
-
         }
-
-
 
     }
 }
