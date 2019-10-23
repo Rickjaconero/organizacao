@@ -37,21 +37,28 @@ namespace Organizacao
             File.WriteAllText(@"Dados.json", test + Environment.NewLine + matchingTweets);
             Console.WriteLine("inseriu no fim do arquivo");
 
+            /*
+            var searchParameter = new SearchTweetsParameters("Libertadores")
+            {
+                MaximumNumberOfResults = 100,
+                SearchType = SearchResultType.Recent
+            };
+            */
             TweetRetorno tweetJson;
 
             var test2 = String.Empty;
-            
+            //metodo 3 mlr ate agora
             JArray a = JArray.Parse(matchingTweets);
             var c = a.Count;
             var i = 0;
             while (c > 0)
             {
-                Console.ReadLine();//pause
+                // Console.ReadLine();//pause
                 tweetJson = new TweetRetorno();
                 tweetJson.id_tweet = a[i]["id_str"].ToString().PadRight(19, ' ');
-                tweetJson.mensager = a[i]["full_text"].ToString().PadRight(300, '');
+                tweetJson.mensager = a[i]["full_text"].ToString().PadRight(300, ' ');
                 tweetJson.user_id = a[i]["user"]["id_str"].ToString().PadRight(18, ' ');
-                tweetJson.user = a[i]["user"]["screen_name"].ToString().PadRight(20, '');
+                tweetJson.user = a[i]["user"]["screen_name"].ToString().PadRight(20, ' ');
                 if (File.Exists(@"Data.txt"))
                 {
                     test2 = File.ReadAllText(@"Data.txt");
@@ -61,10 +68,6 @@ namespace Organizacao
                 mensagem += tweetJson.mensager;
                 mensagem += tweetJson.user_id.ToString();
                 mensagem += tweetJson.user;
-                for (int i = 0; i < mensagem.Length; i++)
-                {
-
-                }
 
                 Console.WriteLine(mensagem);
 
