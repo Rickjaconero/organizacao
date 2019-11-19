@@ -1,0 +1,99 @@
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csproj.CoreCompileInputs.cache
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+D:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+F:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+F:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+F:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+F:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+F:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csproj.CoreCompileInputs.cache
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+G:\Faculdade\Organização de Arquivos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\Vinicius\Documents\Nova pasta\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csproj.CoreCompileInputs.cache
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\Documents\Organização\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\usuario\Downloads\vinicius\Organização2910\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csproj.CoreCompileInputs.cache
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\VACPotrich\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\Vinicius\Documents\Nova pasta\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.deps.json
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.json
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.runtimeconfig.dev.json
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\bin\Debug\netcoreapp2.1\Organizacao.pdb
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.csprojAssemblyReference.cache
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfoInputs.cache
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.AssemblyInfo.cs
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.dll
+C:\Users\rfagu\Downloads\Organização1211\ConsoleApp1\obj\Debug\netcoreapp2.1\Organizacao.pdb
